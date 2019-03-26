@@ -1,6 +1,0 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/AAD Auth With SQL/AzureSqlOAuthConsole/.vs/AzureSqlOAuthConsole/v15
-/AAD Auth With SQL/AzureSqlOAuthConsole/packages/Microsoft.IdentityModel.Clients.ActiveDirectory.2.29.0
