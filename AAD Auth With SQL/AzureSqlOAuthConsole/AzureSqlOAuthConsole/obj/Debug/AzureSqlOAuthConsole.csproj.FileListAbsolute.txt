@@ -1,0 +1,54 @@
+C:\Projects\TRYG\Source Codes\AzureSqlOAuthConsole\AzureSqlOAuthConsole\obj\Debug\AzureSqlOAuthConsole.csprojAssemblyReference.cache
+C:\Projects\TRYG\Source Codes\AzureSqlOAuthConsole\AzureSqlOAuthConsole\obj\Debug\AzureSqlOAuthConsole.csproj.CoreCompileInputs.cache
+C:\Projects\TRYG\Source Codes\AzureSqlOAuthConsole\AzureSqlOAuthConsole\bin\Debug\AzureSqlOAuthConsole.exe.config
+C:\Projects\TRYG\Source Codes\AzureSqlOAuthConsole\AzureSqlOAuthConsole\bin\Debug\AzureSqlOAuthConsole.exe
+C:\Projects\TRYG\Source Codes\AzureSqlOAuthConsole\AzureSqlOAuthConsole\bin\Debug\AzureSqlOAuthConsole.pdb
+C:\Projects\TRYG\Source Codes\AzureSqlOAuthConsole\AzureSqlOAuthConsole\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Projects\TRYG\Source Codes\AzureSqlOAuthConsole\AzureSqlOAuthConsole\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Projects\TRYG\Source Codes\AzureSqlOAuthConsole\AzureSqlOAuthConsole\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Projects\TRYG\Source Codes\AzureSqlOAuthConsole\AzureSqlOAuthConsole\obj\Debug\AzureSqlOAuthConsole.csproj.CopyComplete
+C:\Projects\TRYG\Source Codes\AzureSqlOAuthConsole\AzureSqlOAuthConsole\obj\Debug\AzureSqlOAuthConsole.exe
+C:\Projects\TRYG\Source Codes\AzureSqlOAuthConsole\AzureSqlOAuthConsole\obj\Debug\AzureSqlOAuthConsole.pdb
+C:\Projects\TRYG\Source Codes\OAuth\AzureSqlOAuthConsole\AzureSqlOAuthConsole\bin\Debug\AzureSqlOAuthConsole.exe.config
+C:\Projects\TRYG\Source Codes\OAuth\AzureSqlOAuthConsole\AzureSqlOAuthConsole\bin\Debug\AzureSqlOAuthConsole.exe
+C:\Projects\TRYG\Source Codes\OAuth\AzureSqlOAuthConsole\AzureSqlOAuthConsole\bin\Debug\AzureSqlOAuthConsole.pdb
+C:\Projects\TRYG\Source Codes\OAuth\AzureSqlOAuthConsole\AzureSqlOAuthConsole\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Projects\TRYG\Source Codes\OAuth\AzureSqlOAuthConsole\AzureSqlOAuthConsole\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Projects\TRYG\Source Codes\OAuth\AzureSqlOAuthConsole\AzureSqlOAuthConsole\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Projects\TRYG\Source Codes\OAuth\AzureSqlOAuthConsole\AzureSqlOAuthConsole\obj\Debug\AzureSqlOAuthConsole.csprojAssemblyReference.cache
+C:\Projects\TRYG\Source Codes\OAuth\AzureSqlOAuthConsole\AzureSqlOAuthConsole\obj\Debug\AzureSqlOAuthConsole.csproj.CoreCompileInputs.cache
+C:\Projects\TRYG\Source Codes\OAuth\AzureSqlOAuthConsole\AzureSqlOAuthConsole\obj\Debug\AzureSqlOAuthConsole.csproj.CopyComplete
+C:\Projects\TRYG\Source Codes\OAuth\AzureSqlOAuthConsole\AzureSqlOAuthConsole\obj\Debug\AzureSqlOAuthConsole.exe
+C:\Projects\TRYG\Source Codes\OAuth\AzureSqlOAuthConsole\AzureSqlOAuthConsole\obj\Debug\AzureSqlOAuthConsole.pdb
+C:\Dev\Accenture Development\OAuth\AzureSqlOAuthConsole\AzureSqlOAuthConsole\bin\Debug\AzureSqlOAuthConsole.exe.config
+C:\Dev\Accenture Development\OAuth\AzureSqlOAuthConsole\AzureSqlOAuthConsole\bin\Debug\AzureSqlOAuthConsole.exe
+C:\Dev\Accenture Development\OAuth\AzureSqlOAuthConsole\AzureSqlOAuthConsole\bin\Debug\AzureSqlOAuthConsole.pdb
+C:\Dev\Accenture Development\OAuth\AzureSqlOAuthConsole\AzureSqlOAuthConsole\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Dev\Accenture Development\OAuth\AzureSqlOAuthConsole\AzureSqlOAuthConsole\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Dev\Accenture Development\OAuth\AzureSqlOAuthConsole\AzureSqlOAuthConsole\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Dev\Accenture Development\OAuth\AzureSqlOAuthConsole\AzureSqlOAuthConsole\obj\Debug\AzureSqlOAuthConsole.csprojAssemblyReference.cache
+C:\Dev\Accenture Development\OAuth\AzureSqlOAuthConsole\AzureSqlOAuthConsole\obj\Debug\AzureSqlOAuthConsole.csproj.CoreCompileInputs.cache
+C:\Dev\Accenture Development\OAuth\AzureSqlOAuthConsole\AzureSqlOAuthConsole\obj\Debug\AzureSqlOAuthConsole.csproj.CopyComplete
+C:\Dev\Accenture Development\OAuth\AzureSqlOAuthConsole\AzureSqlOAuthConsole\obj\Debug\AzureSqlOAuthConsole.exe
+C:\Dev\Accenture Development\OAuth\AzureSqlOAuthConsole\AzureSqlOAuthConsole\obj\Debug\AzureSqlOAuthConsole.pdb
+C:\Users\mohammad.ahmed.amer\Desktop\AzureSqlOAuthConsole\AzureSqlOAuthConsole\bin\Debug\AzureSqlOAuthConsole.exe.config
+C:\Users\mohammad.ahmed.amer\Desktop\AzureSqlOAuthConsole\AzureSqlOAuthConsole\bin\Debug\AzureSqlOAuthConsole.exe
+C:\Users\mohammad.ahmed.amer\Desktop\AzureSqlOAuthConsole\AzureSqlOAuthConsole\bin\Debug\AzureSqlOAuthConsole.pdb
+C:\Users\mohammad.ahmed.amer\Desktop\AzureSqlOAuthConsole\AzureSqlOAuthConsole\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\mohammad.ahmed.amer\Desktop\AzureSqlOAuthConsole\AzureSqlOAuthConsole\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\mohammad.ahmed.amer\Desktop\AzureSqlOAuthConsole\AzureSqlOAuthConsole\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\mohammad.ahmed.amer\Desktop\AzureSqlOAuthConsole\AzureSqlOAuthConsole\obj\Debug\AzureSqlOAuthConsole.csprojAssemblyReference.cache
+C:\Users\mohammad.ahmed.amer\Desktop\AzureSqlOAuthConsole\AzureSqlOAuthConsole\obj\Debug\AzureSqlOAuthConsole.csproj.CoreCompileInputs.cache
+C:\Users\mohammad.ahmed.amer\Desktop\AzureSqlOAuthConsole\AzureSqlOAuthConsole\obj\Debug\AzureSqlOAuthConsole.csproj.CopyComplete
+C:\Users\mohammad.ahmed.amer\Desktop\AzureSqlOAuthConsole\AzureSqlOAuthConsole\obj\Debug\AzureSqlOAuthConsole.exe
+C:\Users\mohammad.ahmed.amer\Desktop\AzureSqlOAuthConsole\AzureSqlOAuthConsole\obj\Debug\AzureSqlOAuthConsole.pdb
+C:\AAD-Authentication\AAD-Authentication\AAD Auth With SQL\AzureSqlOAuthConsole\AzureSqlOAuthConsole\bin\Debug\AzureSqlOAuthConsole.exe.config
+C:\AAD-Authentication\AAD-Authentication\AAD Auth With SQL\AzureSqlOAuthConsole\AzureSqlOAuthConsole\bin\Debug\AzureSqlOAuthConsole.exe
+C:\AAD-Authentication\AAD-Authentication\AAD Auth With SQL\AzureSqlOAuthConsole\AzureSqlOAuthConsole\bin\Debug\AzureSqlOAuthConsole.pdb
+C:\AAD-Authentication\AAD-Authentication\AAD Auth With SQL\AzureSqlOAuthConsole\AzureSqlOAuthConsole\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\AAD-Authentication\AAD-Authentication\AAD Auth With SQL\AzureSqlOAuthConsole\AzureSqlOAuthConsole\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\AAD-Authentication\AAD-Authentication\AAD Auth With SQL\AzureSqlOAuthConsole\AzureSqlOAuthConsole\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\AAD-Authentication\AAD-Authentication\AAD Auth With SQL\AzureSqlOAuthConsole\AzureSqlOAuthConsole\obj\Debug\AzureSqlOAuthConsole.csproj.CoreCompileInputs.cache
+C:\AAD-Authentication\AAD-Authentication\AAD Auth With SQL\AzureSqlOAuthConsole\AzureSqlOAuthConsole\obj\Debug\AzureSqlOAuthConsole.csproj.CopyComplete
+C:\AAD-Authentication\AAD-Authentication\AAD Auth With SQL\AzureSqlOAuthConsole\AzureSqlOAuthConsole\obj\Debug\AzureSqlOAuthConsole.exe
+C:\AAD-Authentication\AAD-Authentication\AAD Auth With SQL\AzureSqlOAuthConsole\AzureSqlOAuthConsole\obj\Debug\AzureSqlOAuthConsole.pdb
